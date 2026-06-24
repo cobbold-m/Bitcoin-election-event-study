@@ -123,7 +123,7 @@ Transaction count fell 16.8% post-election (SAC = −0.77), diverging sharply fr
 Total fees fell 5.6% post-election (SAC = −0.03), statistically indistinguishable from zero. Since fees reflect users bidding competitively for block space, their absence confirms that the post-election capital inflows did not reach the blockchain. The largest fee spikes in the surrounding period coincided with the April 2024 halving and the January 2024 spot ETF launch, not the election.
 
 <p align="center">
-  <img src="Picture_4.png" alt="Figure 4: Total Transaction Fees with Halving and ETF Launch Markers" width="600"/>
+  <img src="images/Picture_4.png" alt="Figure 4: Total Transaction Fees with Halving and ETF Launch Markers" width="600"/>
 </p>
 <p align="center"><em>Figure 4: Total Transaction Fees with Halving and ETF Launch Markers</em></p>
 
