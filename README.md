@@ -75,7 +75,7 @@ The headline results separate a persistent price response from the absence of an
 The post-election mean of $91,017 represents a 36.5% increase from $66,662, with an SAC of 5.88, roughly 6σ above control-period volatility. Both the Welch t-test and the Mann-Whitney U test reject the null at the 1% level, consistent with Tan and Wong (2025), who document persistent price effects following the 2024 result. Price never reverted to its pre-election range across the full 30-day window, confirming full persistence.
 
 <p align="center">
-  <img src="images/fig1_price.png" alt="Figure 1: BTC Price Series, Pre vs Post Election with 2023 Control Overlay" width="600"/>
+  <img src="images/Picture_2.png" alt="Figure 1: BTC Price Series, Pre vs Post Election with 2023 Control Overlay" width="600"/>
 </p>
 <p align="center"><em>Figure 1: BTC Price Series, Pre vs Post Election with 2023 Control Overlay</em></p>
 
@@ -101,7 +101,7 @@ Miner revenue rose 29.2% post-election (SAC = 1.46), but this reflects price app
 <p align="center"><em>Table 3: Miner Revenue Decomposition, Post-Election Window</em></p>
 
 <p align="center">
-  <img src="images/fig2_miner_revenue.png" alt="Figure 2: Miner Revenue Decomposed into Subsidy and Fees" width="600"/>
+  <img src="images/Picture_1.png" alt="Figure 2: Miner Revenue Decomposed into Subsidy and Fees" width="600"/>
 </p>
 <p align="center"><em>Figure 2: Miner Revenue Decomposed into Subsidy and Fees</em></p>
 
@@ -112,7 +112,7 @@ Miner revenue rose 29.2% post-election (SAC = 1.46), but this reflects price app
 Transaction count fell 16.8% post-election (SAC = −0.77), diverging sharply from price. The 7-day rolling mean reverted to the pre-election band by day 13, suggesting a short-lived disruption. The Pearson correlation between price and transaction count is effectively zero post-election (r = −0.08, p = 0.68), confirming a decoupling between price and network utilisation (Aalborg et al., 2023). Cahill et al. (2024) find that ETF flows and derivatives trading can drive price without generating proportional on-chain activity, which is precisely the pattern observed here.
 
 <p align="center">
-  <img src="images/fig3_transaction_count.png" alt="Figure 3: Transaction Count with 7-Day Rolling Mean" width="600"/>
+  <img src="images/Picture_3.png" alt="Figure 3: Transaction Count with 7-Day Rolling Mean" width="600"/>
 </p>
 <p align="center"><em>Figure 3: Transaction Count with 7-Day Rolling Mean</em></p>
 
@@ -123,7 +123,7 @@ Transaction count fell 16.8% post-election (SAC = −0.77), diverging sharply fr
 Total fees fell 5.6% post-election (SAC = −0.03), statistically indistinguishable from zero. Since fees reflect users bidding competitively for block space, their absence confirms that the post-election capital inflows did not reach the blockchain. The largest fee spikes in the surrounding period coincided with the April 2024 halving and the January 2024 spot ETF launch, not the election.
 
 <p align="center">
-  <img src="images/fig4_fees.png" alt="Figure 4: Total Transaction Fees with Halving and ETF Launch Markers" width="600"/>
+  <img src="Picture_4.png" alt="Figure 4: Total Transaction Fees with Halving and ETF Launch Markers" width="600"/>
 </p>
 <p align="center"><em>Figure 4: Total Transaction Fees with Halving and ETF Launch Markers</em></p>
 
