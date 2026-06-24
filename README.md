@@ -1,8 +1,8 @@
-# Bitcoin-election-event-study
-## Did the 2024 US Presidential Election Generate Abnormal On-Chain Bitcoin Activity?
+##Bitcoin-election-event-study
+ Did the 2024 US Presidential Election Generate Abnormal On-Chain Bitcoin Activity?
 An event-study analysis testing whether the 2024 US presidential election moved Bitcoin's network economics, or only its price.
 
----
+--- 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
