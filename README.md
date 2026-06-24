@@ -14,7 +14,7 @@ An event-study analysis testing whether the 2024 US presidential election moved 
 
 ## Overview
 
-This project tests whether the 2024 US presidential election (5 November 2024) produced abnormal on-chain Bitcoin activity, or only a speculative price response. Trump campaigned on a strategic Bitcoin reserve and lighter regulatory oversight (Amsden, 2024), and the analysis asks whether that political signal moved the network economics or just the price. Using an event-study framework across four daily metrics, transaction count, total fees, miner revenue, and BTC price, it separates a price effect from a genuine demand-side effect. This project was completed as part of the [ICM318](https://www.reading.ac.uk/modules/documents?acyear=2025%252f6&modcode=ICM318&schoolcode=HBS%20ICM%20W) module at Henley Business School.
+This project tests whether the 2024 US presidential election (5 November 2024) produced abnormal on-chain Bitcoin activity, or only a speculative price response. Trump campaigned on a strategic Bitcoin reserve and lighter regulatory oversight (Amsden, 2024), and the analysis asks whether that political signal moved the network economics or just the price. Using an event-study framework across four daily metrics, transaction count, total fees, miner revenue, and BTC price, it separates a price effect from a genuine demand-side effect. This project was completed as part of the [ICM318](https://www.reading.ac.uk/modules/documents?acyear=2024%252f5&modcode=ICM318&schoolcode=HBS%20BIS%20G%7CHBS%20BIS%20W%7CHBS%20IBS%20G%7CHBS%20IBS%20W%7CHBS%20ICM%20W%7CHBS%20LOB%20G%7CHBS%20LOB%20W%7CHBS%20MGM%20W%7CHBS%20MKR%20G%7CHBS%20MKR%20W%7CHBS%20REP%20W) module at Henley Business School.
 
 ---
 
