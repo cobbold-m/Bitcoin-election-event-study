@@ -1,4 +1,4 @@
-##Bitcoin-election-event-study
+## Bitcoin-election-event-study
  Did the 2024 US Presidential Election Generate Abnormal On-Chain Bitcoin Activity?
 An event-study analysis testing whether the 2024 US presidential election moved Bitcoin's network economics, or only its price.
 
